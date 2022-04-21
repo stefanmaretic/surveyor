@@ -68,7 +68,7 @@ function App() {
       padding="md"
       header={
         <Header height={60} p="xs">
-          header
+          <></>
         </Header>
       }
     >
